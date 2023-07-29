@@ -1,7 +1,7 @@
 Hi 👋 My name is Matheus
 ==========================
 
-Automation and Software Engineer and AI enthusiastic
+Automation and Software Engineer | AI enthusiastic
 -----------------------------
 
 I'm a 27 years old engineer and have been coding since I was 19. I love to code and my main focus is back-end development, making applications that impact the life of thousands of users.
